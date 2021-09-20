@@ -1,0 +1,30 @@
+_id: req_b9aa2cab3c5e43b3880806d984162748
+type: Request
+parentId: fld_900b04a6eece4412bad62415e32121d1
+modified: 1632177246029
+created: 1632176777906
+url: http://localhost:3000/asiento
+name: post asiento
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "Fila": "3",
+        "Columna": "C"
+      }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_f7f0435f8afa47f6b9aba6982082256b
+authentication: {}
+metaSortKey: -1632176807506
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

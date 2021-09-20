@@ -1,0 +1,21 @@
+_id: req_111bb7c10eb6457e9a7561f692de0e91
+type: Request
+parentId: fld_900b04a6eece4412bad62415e32121d1
+modified: 1632177321909
+created: 1632176807481
+url: http://localhost:3000/asiento/5
+name: delete asiento
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1632176807481
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

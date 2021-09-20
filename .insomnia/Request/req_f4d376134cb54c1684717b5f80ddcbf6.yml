@@ -1,0 +1,21 @@
+_id: req_f4d376134cb54c1684717b5f80ddcbf6
+type: Request
+parentId: fld_900b04a6eece4412bad62415e32121d1
+modified: 1632176852379
+created: 1632176762062
+url: http://localhost:3000/asiento
+name: get asiento
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1632176807531
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
